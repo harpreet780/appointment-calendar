@@ -1,0 +1,27 @@
+.rbc-header {
+  padding: 10px 4px !important;
+  background-color: #dfdfdf5c;
+}
+.modal-headers {
+  font-size: 18px;
+  line-height: 20px;
+  color: #454545;
+  width: 150px;
+  font-weight: 400;
+  margin: 0;
+}
+.slotBtn {
+  margin: 0;
+  padding: 5px 15px;
+  background-color: #3174AD;
+  color: #fff;
+  border: none;
+  outline: none;
+}
+.modal-title {
+  width: 100%;
+  text-align: center;
+}
+.modal-footer {
+  padding: 15px 24px !important;
+}
